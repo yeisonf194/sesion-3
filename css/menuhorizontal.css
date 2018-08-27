@@ -1,0 +1,29 @@
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #FFF;
+}
+li{
+	display:inline-block;
+}
+a{
+	font-family: 'Indie Flower', cursive; 
+	font-size: 3em;
+	text-decoration: none;
+	display: block;
+	padding: 6px;
+	border: 1px solid #CCC;
+	background-color: lightgray;
+	color:#000; 
+}
+a:hover{
+	color:White;
+	background-color:gray;
+	border-bottom-width:8px;
+	border-color:#AEAEAE;
+}
+.icon-music{
+	font-size: 3em;
+	color:purple;
+}

@@ -1,0 +1,9 @@
+p i{
+	color:red;
+}
+p i strong{
+	color:purple;
+}
+p{
+	font-size: 2em;
+}
